@@ -1,2 +1,2 @@
 # DataStructures
-Here I will post the lastest data structures I've learned about
+Here I will upload the different data structures that I will be learning.
